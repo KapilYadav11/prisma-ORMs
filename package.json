@@ -1,0 +1,19 @@
+{
+  "name": "prisma",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b && node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "prisma": "^7.4.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
